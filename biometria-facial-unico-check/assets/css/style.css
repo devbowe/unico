@@ -1,0 +1,864 @@
+h1,
+h2,
+h3 {
+  font-family: 'Comfortaa', cursive;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+h1 {
+  font-size: 36px;
+}
+h2 {
+  font-size: 28px;
+}
+h3 {
+  font-size: 22px;
+  font-weight: 400;
+  color: #313131;
+}
+p,
+li {
+  font-family: 'Comfortaa', cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-size: 16px;
+  color: #313131;
+}
+.btn {
+  background: #1AAEFF;
+  border-radius: 50px;
+  padding: 10px 40px;
+  max-width: 250px;
+  display: block;
+  color: #fff;
+  text-align: center;
+  font-weight: 600;
+  font-size: 16px;
+}
+.btn:hover {
+  background: #fff;
+  color: #1D76E8;
+  border: 1px solid #1D76E8;
+}
+#section01 {
+  display: flex;
+  background: url(../images/bg01.webp) top left 40% no-repeat;
+  background-size: cover;
+  padding: 100px 0;
+}
+#section01 h1 {
+  padding-top: 50px;
+  color: #777777;
+}
+#section01 p {
+  padding-top: 30px;
+  line-height: 26px;
+  letter-spacing: -0.02em;
+  color: #777777;
+  width: 60%;
+}
+#section01 .blue {
+  color: #00A5FF;
+}
+#section01 .logo {
+  padding-top: 30px;
+}
+#section01 .row .intro {
+  width: 60%;
+  float: left;
+}
+#section01 .row .form {
+  width: 40%;
+  padding: 40px;
+  float: left;
+  position: relative;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.03);
+  border-radius: 20px;
+}
+#section01 .row .form p {
+  width: 100%;
+  margin-bottom: 30px;
+  line-height: 20px;
+  padding-top: 10px;
+  font-size: 15px !important;
+}
+#section01 .row .form label {
+  color: #A4A4A4;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+#section01 .row .form .hs-error-msg,
+#section01 .row .form .hs-main-font-element {
+  color: #f2545b;
+  font-size: 12px;
+  font-weight: bold;
+}
+#section01 .row .form h3 {
+  color: #CF0080 !important;
+  font-weight: 600;
+  font-size: 18px;
+}
+#section01 .row .form ul {
+  list-style: none;
+  padding: 0;
+}
+#section01 .row .form ul .inputs-list {
+  padding-left: 0;
+}
+#section01 .row .form ul input {
+  height: 13px !important;
+  width: 5% !important;
+  margin: 3px 5px 3px 0px;
+}
+#section01 .row .form input,
+#section01 .row .form select {
+  width: 100%;
+  float: left;
+  margin: 0 0 15px;
+  padding: 0 20px;
+  border: 1px solid #B2B2B2;
+  box-sizing: border-box;
+  border-radius: 33px;
+  font-family: 'Comfortaa', cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-size: 14px;
+  line-height: 1.36;
+  letter-spacing: normal;
+  color: #8c8c8c;
+  height: 40px;
+}
+#section01 .row .form input::placeholder,
+#section01 .row .form select::placeholder {
+  padding: 0 10px;
+}
+#section01 .row .form .legal-input span {
+  margin-left: 20px;
+}
+#section01 .row .form .legal-input input[type=checkbox] {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  margin-top: 7px;
+}
+#section01 .row .form #close-form {
+  background: transparent;
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 999;
+  padding: 10px;
+  display: none;
+}
+#section02 {
+  background: linear-gradient(180deg, #cf0080 50%, #ffffff 50%);
+  padding: 40px 0;
+}
+#section02 h2 {
+  line-height: 40px;
+  text-align: center;
+  color: #fff;
+  letter-spacing: -0.03em;
+  padding: 40px 0;
+}
+#section02 .subtext {
+  font-size: 14px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+#section02 .dark {
+  color: #313131;
+  padding: 40px 0 10px;
+}
+#section02 .dark b {
+  color: #CF0080;
+}
+#section02 hr {
+  background: linear-gradient(100.87deg, #00a5ff 0.88%, #cf0080 132.6%);
+  width: 200px;
+  height: 3px;
+  margin-bottom: 40px;
+}
+#section02 .itens {
+  background: #fff;
+  border-radius: 12px;
+  padding: 30px;
+  margin: 0 auto 0 30px;
+  box-shadow: 0px 2px 2px rgba(85, 85, 85, 0.3);
+}
+#section02 .itens:last-child {
+  margin-right: 0;
+}
+#section02 .itens h3 {
+  font-size: 40px;
+  color: #CF0080;
+}
+#section02 .itens p {
+  font-size: 20px;
+  padding-top: 10px;
+}
+#section03 {
+  background: #F9F9F9;
+  padding: 60px 0;
+}
+#section03 .row {
+  margin: 0 auto;
+}
+#section03 hr {
+  background: #313131;
+  width: 110px;
+  height: 1px;
+  margin-bottom: 60px;
+}
+#section03 h3 {
+  text-align: center;
+  padding-bottom: 10px;
+}
+#section03 img {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+}
+#section04 {
+  background-image: linear-gradient(100.87deg, #00a5ff 0.88%, #cf0080 132.6%);
+  padding: 60px 0;
+}
+#section04 h2 {
+  padding-bottom: 10px;
+  text-align: center;
+}
+#section04 hr {
+  background: #fff;
+  width: 110px;
+  height: 1px;
+  margin-bottom: 40px;
+}
+#section04 h2,
+#section04 h3,
+#section04 p {
+  color: #fff;
+}
+#section04 .item {
+  padding-top: 40px;
+}
+#section04 .item .text-content {
+  display: flex;
+  align-items: center;
+}
+#section04 .item h3 {
+  font-weight: 600;
+}
+#section04 .item img {
+  padding-right: 10px;
+}
+#section04 .item p {
+  margin-bottom: 0;
+}
+#section04 .btn {
+  background: #CF0080;
+  margin: 100px auto 80px;
+  padding: 10px 0;
+}
+#section05 {
+  padding: 60px 0 80px;
+}
+#section05 h2 {
+  padding-bottom: 20px;
+  text-align: center;
+}
+#section05 h2 span {
+  color: #13C2FF;
+}
+#section05 hr {
+  background: #313131;
+  width: 110px;
+  height: 1px;
+  margin-bottom: 60px;
+}
+#section05 p {
+  font-size: 14px;
+}
+#section05 img {
+  padding-bottom: 20px;
+  height: 60px;
+}
+#section05 .itens {
+  border-radius: 12px;
+  box-shadow: 0 0 8px rgba(85, 85, 85, 0.3);
+  margin-bottom: 20px;
+  margin-right: 16px;
+  padding: 30px 20px 0;
+}
+#section05 .btn {
+  margin: 60px auto 0;
+  padding: 10px 0;
+}
+#section06 {
+  background: #13C2FF;
+  padding: 80px 0;
+}
+#section06 h2,
+#section06 p {
+  text-align: center;
+  color: #fff;
+}
+#section06 h2 {
+  padding-bottom: 10px;
+}
+#section06 p {
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+#section06 hr {
+  background: #fff;
+  width: 110px;
+  height: 1px;
+  margin-bottom: 60px;
+}
+#section06 .itens {
+  border: #fff 2px solid;
+  border-radius: 30px;
+  margin: 30px 0 60px 50px;
+  padding: 40px 40px 20px;
+}
+#section06 .itens:last-child {
+  margin-right: 0;
+}
+#section06 .itens h3 {
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+}
+#section06 .itens hr {
+  background: #CF0080;
+  width: 110px;
+  height: 2px;
+  margin-bottom: 30px;
+}
+#section06 .itens p {
+  font-size: 16px;
+}
+#section06 .btn {
+  margin: 0 auto;
+  background: #CF0080;
+}
+#section07 {
+  background: #cf0080 url("../images/bg07.webp") top center no-repeat;
+  height: 480px;
+}
+#section07 h2 {
+  color: #fff;
+}
+#section07 hr {
+  background: #fff;
+  width: 120px;
+  height: 1px;
+  float: left;
+}
+#section07 p {
+  padding-top: 50px;
+  color: #fff;
+}
+#section07 .col-md-6 {
+  padding: 150px 0 150px 60px;
+}
+#section07 .logo {
+  padding: 80px 0 0;
+  display: block;
+  margin: 0 auto;
+}
+#section08 {
+  padding: 60px 0 80px;
+}
+#section08 h2 {
+  padding-bottom: 20px;
+  text-align: center;
+}
+#section08 h2 span {
+  color: #CF0080;
+}
+#section08 hr {
+  background: #313131;
+  width: 110px;
+  height: 1px;
+  margin-bottom: 60px;
+}
+#section08 p {
+  font-size: 14px;
+  color: #fff;
+}
+#section08 img {
+  padding-bottom: 20px;
+  height: 50px;
+}
+#section08 .itens {
+  background: #CF0080;
+  border-radius: 12px;
+  box-shadow: 0 0 8px rgba(85, 85, 85, 0.3);
+  margin-bottom: 20px;
+  margin-right: 16px;
+  padding: 30px 20px 0;
+}
+#section08 .btn {
+  margin: 60px auto 0;
+  padding: 10px 0;
+  background: #000538;
+}
+#section09 {
+  background: #F9F9F9;
+  padding: 80px 0;
+}
+#section09 h2 {
+  padding-bottom: 20px;
+  text-align: center;
+}
+#section09 h2 span {
+  color: #13C2FF;
+}
+#section09 hr {
+  background: #313131;
+  width: 110px;
+  height: 1px;
+  margin-bottom: 60px;
+}
+#section09 .btn {
+  margin: 80px auto 0;
+}
+#section09 .carousel {
+  max-width: 930px;
+  margin: 0 auto;
+  border-radius: 30px;
+  box-shadow: 0 0 10px rgba(85, 85, 85, 0.3);
+}
+#section09 .carousel-cell {
+  width: 100%;
+  height: 400px;
+  border-radius: 30px;
+  margin-right: 10px;
+  background: #FBFBFB;
+}
+#section09 .carousel-cell .carousel-itens {
+  display: block;
+  margin: 0 auto;
+  padding: 60px 50px 50px;
+}
+#section09 .carousel-cell .carousel-itens .title {
+  display: flex;
+  align-items: flex-start;
+}
+#section09 .carousel-cell .carousel-itens .title h2 {
+  color: #13C2FF;
+  margin-right: 10px;
+}
+#section09 .carousel-cell .carousel-itens .title img {
+  height: 32px;
+}
+#section09 .carousel-cell .carousel-itens h3 {
+  color: #13C2FF;
+  font-weight: bold;
+  margin-top: 20px;
+}
+#section09 .carousel-cell .carousel-itens hr {
+  background: 0;
+  width: 100%;
+  margin: 20px 0 40px;
+}
+#section09 .carousel-cell .carousel-itens ul li {
+  color: #CF0080;
+  font-size: 18px;
+}
+#section09 .flickity-page-dots {
+  display: none;
+}
+#section09 .flickity-prev-next-button.previous {
+  left: -20px;
+}
+#section09 .flickity-prev-next-button.next {
+  right: -20px;
+}
+#section09 .flickity-prev-next-button.previous,
+#section09 .flickity-prev-next-button.next {
+  box-shadow: 0 0 20px rgba(85, 85, 85, 0.1);
+}
+#section09 .flickity-prev-next-button .flickity-button-icon {
+  color: #5CD4FE;
+  width: 40%;
+  left: 30%;
+}
+#section10 {
+  background: url("../images/bg09.webp") center no-repeat;
+  padding: 60px 0 80px;
+}
+#section10 h3,
+#section10 p {
+  color: #fff;
+}
+#section10 hr {
+  background: linear-gradient(100.87deg, #00a5ff 0.88%, #cf0080 132.6%);
+  width: 200px;
+  height: 2px;
+  float: left;
+  margin-top: 20px;
+}
+#section10 p {
+  padding: 60px 0 40px;
+}
+#section10 .btn {
+  max-width: 280px;
+}
+#thank-you {
+  background: url(../images/bg-tp.webp) top left 40% no-repeat;
+  padding: 120px 0;
+}
+#thank-you h1 {
+  font-size: 30px;
+  color: #777777;
+  padding: 40px 0 20px;
+}
+#thank-you h2 {
+  font-size: 22px;
+  color: #00A5FF;
+}
+#thank-you p {
+  padding: 5px 0px;
+  color: #777777;
+  width: 90%;
+}
+#thank-you a {
+  color: #CF0080;
+  font-weight: 600;
+}
+.botaofixo a {
+  width: 100%;
+  height: 60px;
+  border: none;
+  background: #1D76E8;
+  font-size: 18px;
+  font-weight: 500;
+  font-style: italic;
+  line-height: 2.5;
+  text-align: center;
+  color: #fff !important;
+  font-family: 'Comfortaa', cursive;
+  padding: 10px 0;
+  display: none;
+  position: fixed;
+  bottom: 0;
+}
+@media screen and (min-width: 1500px) {
+  background: url(../images/bg-tp.webp) top left 20% no-repeat;
+}
+@media screen and (min-width: 1420px) {
+  .container {
+    max-width: 1220px;
+  }
+  #section01 p {
+    width: 55%;
+  }
+}
+@media screen and (max-width: 1420px) {
+  #section06 .item-right::before {
+    left: 16rem;
+    top: 4.6rem;
+  }
+  #section06 .item-left::after {
+    right: 24rem;
+  }
+}
+@media screen and (min-width: 767px) and (max-width: 1024px) {
+  #section10 {
+    background-size: cover;
+  }
+  #section10 br {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  h2 {
+    font-size: 24px;
+  }
+  #section01 {
+    background: url("../images/bg01-tablet.png") top left no-repeat;
+    padding: 60px 0;
+  }
+  #section01 .row {
+    display: block;
+  }
+  #section01 .row .intro,
+  #section01 .row .form {
+    width: 90%;
+    margin: 0 auto;
+    float: none;
+  }
+  #section01 .row .intro p {
+    width: 60%;
+  }
+  #section01 .row .form {
+    margin-top: 120px;
+  }
+  #section02 .itens {
+    padding: 30px 20px 20px;
+  }
+  #section02 .itens p {
+    font-size: 18px;
+  }
+  #section02 .itens p br {
+    display: none;
+  }
+  #section03 {
+    padding: 60px 0;
+  }
+  #section04 {
+    padding: 60px 0;
+  }
+  #section04 p br {
+    display: none;
+  }
+  #section04 .btn {
+    margin: 60px auto 0;
+  }
+  #section05 .btn {
+    margin: 40px auto 0;
+  }
+  #section06 p {
+    font-size: 18px;
+  }
+  #section06 p br {
+    display: none;
+  }
+  #section06 hr {
+    margin-bottom: 40px;
+  }
+  #section06 .itens {
+    padding: 40px 20px 20px;
+  }
+  #section07 h2 br {
+    display: none;
+  }
+  #section08 h2 {
+    padding-bottom: 10px;
+  }
+  #section08 .btn {
+    margin: 40px auto 0;
+  }
+  #section10 {
+    background: url(../images/bg09.webp) top left 56% no-repeat;
+    background-size: cover;
+  }
+  #thank-you {
+    background: #ffffff url(../images/bg-tp-tablet.png) bottom left 40px no-repeat;
+    background-size: cover;
+    padding: 100px 0 80px;
+  }
+  #thank-you h1,
+  #thank-you h2,
+  #thank-you p {
+    width: 60%;
+  }
+}
+@media screen and (max-width: 766px) {
+  h1 {
+    font-size: 25px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  p {
+    font-size: 14px;
+  }
+  .btn {
+    display: none;
+  }
+  #section01 {
+    background: #ffffff url("../images/bg01-mobile.png") bottom right no-repeat;
+    background-size: contain;
+    padding: 20px 0 500px;
+  }
+  #section01 .row .intro h1 {
+    padding-top: 50px;
+  }
+  #section01 .row .intro h1 br {
+    display: none;
+  }
+  #section01 .row .intro p {
+    width: 100%;
+  }
+  #section01 .row .intro .logo {
+    max-width: 100%;
+  }
+  #section01 .row .form {
+    margin-top: 50px;
+    padding: 40px 30px;
+    position: fixed;
+    top: 0;
+    margin: 0;
+    left: 0;
+    width: 100%!important;
+    height: 100%!important;
+    background: #fff;
+    border-radius: 0;
+    display: none;
+    overflow-y: auto;
+    z-index: 999999999;
+  }
+  #section01 .row .form h3 {
+    font-size: 15px;
+  }
+  #section02 {
+    background: linear-gradient(180deg, #cf0080 60%, #ffffff 40%);
+    padding: 60px 0;
+  }
+  #section02 h2 {
+    padding: 0 0 40px;
+  }
+  #section02 .dark {
+    padding: 20px 0 10px;
+  }
+  #section02 hr {
+    margin-bottom: 0;
+  }
+  #section02 .itens {
+    width: 90%;
+    margin: 0 auto 30px;
+  }
+  #section02 .itens:last-child {
+    margin-right: auto;
+  }
+  #section03 {
+    padding: 60px 0 30px;
+  }
+  #section03 h3 {
+    font-size: 20px;
+  }
+  #section03 h3 br {
+    display: none;
+  }
+  #section03 img {
+    margin: 0 auto;
+    display: initial;
+    padding-bottom: 30px;
+  }
+  #section04 hr {
+    margin-bottom: 20px;
+  }
+  #section05 {
+    padding: 60px 0;
+  }
+  #section05 hr {
+    margin-bottom: 40px;
+  }
+  #section05 .itens {
+    margin-right: 0;
+  }
+  #section05 .btn {
+    margin: 40px auto 0;
+  }
+  #section06 {
+    padding: 60px 0;
+  }
+  #section06 p {
+    font-size: 16px;
+  }
+  #section06 .itens {
+    margin: 30px auto 15px;
+  }
+  #section06 .itens:last-child {
+    margin-right: auto;
+  }
+  #section06 .btn {
+    margin: 30px auto 0;
+  }
+  #section07 {
+    background: #cf0080 url("../images/bg07-mobile.png") bottom no-repeat;
+    background-size: contain;
+    padding: 40px 0 70px;
+  }
+  #section07 .col-md-6 {
+    padding: 0 20px 0 15px;
+  }
+  #section08 .itens {
+    margin-right: 0;
+  }
+  #section08 hr {
+    margin-bottom: 40px;
+  }
+  #section09 {
+    padding: 60px 0;
+  }
+  #section09 h2 {
+    padding-bottom: 10px;
+  }
+  #section09 hr {
+    margin-bottom: 40px;
+  }
+  #section09 .carousel-cell .carousel-itens {
+    padding: 60px 30px 50px;
+  }
+  #section09 .carousel-cell .carousel-itens h3 {
+    font-size: 18px;
+    margin-top: 30px;
+  }
+  #section09 .carousel-cell .carousel-itens h3 br {
+    display: none;
+  }
+  #section09 .carousel-cell .carousel-itens ul {
+    padding-left: 9px;
+  }
+  #section09 .carousel-cell .carousel-itens ul li {
+    font-size: 14px;
+  }
+  #section09 .flickity-prev-next-button {
+    display: none;
+  }
+  #section09 .flickity-page-dots {
+    display: block;
+  }
+  #section09 .flickity-page-dots .dot {
+    background: #5CD4FE;
+  }
+  #section09 .btn {
+    margin: 60px auto 0;
+  }
+  #section10 {
+    background: #000538 url("../images/bg09-mobile.png") bottom no-repeat;
+    background-size: contain;
+    padding: 60px 0 280px;
+  }
+  #section10 p {
+    padding: 40px 0 20px;
+  }
+  #section10 p br {
+    display: none;
+  }
+  .botaofixo a {
+    display: block;
+  }
+  #close-form {
+    display: block !important;
+  }
+  #thank-you {
+    background: #ffffff url("../images/bg01-mobile.png") bottom right no-repeat;
+    background-size: contain;
+    padding: 60px 0 80px;
+    height: 1300px;
+  }
+  #thank-you h1,
+  #thank-you h2,
+  #thank-you p {
+    width: 100%;
+  }
+  #thank-you h1 {
+    font-size: 25px;
+  }
+  #thank-you h2 {
+    font-size: 20px;
+  }
+}

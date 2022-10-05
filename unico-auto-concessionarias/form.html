@@ -1,0 +1,128 @@
+<form id="unico-auto-concessionarias" action="obrigado.html">
+    <input type="hidden" name="c_utmz" id="c_utmz" value="" />
+    <input type="hidden" name="traffic_source" id="traffic_source" value="" />
+
+    <input type="hidden" name="utm_campaign" id="utm_campaign" value="" />
+    <input type="hidden" name="utm_source" id="utm_source" value="" />
+    <input type="hidden" name="utm_medium" id="utm_medium" value="" />
+    <input type="hidden" name="utm_term" id="utm_term" value="" />
+    <input type="hidden" name="utm_content" id="utm_content" value="" />
+    <input name="url_pagina" id="url_pagina" type="hidden">  
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const utmParams = [
+        'url_pagina',
+        'utm_source',
+        'utm_medium',
+        'utm_campaign',
+        'utm_term',
+        'utm_content'
+        ];
+
+        let paramValue, utmField;
+
+        utmParams.forEach(function (param) {
+        paramValue = urlParams.get(param);
+        utmField = document.querySelector("input[name='"+param+"']");
+
+        if (paramValue && utmField) {
+            utmField.value = paramValue.trim();
+        }
+        });
+    </script>
+
+    <div class="step step-01">
+        <ul>
+            <li class="input-field nome">
+                <label for="nome">Nome*</label>
+                <input id="nome" name="firstname" type="text" class="validate">
+                <span class="output"></span>
+            </li>
+            <li class="input-field tel">
+                <label for="tel">Telefone (WhatsApp)*</label>
+                <input id="tel" name="phone" type="tel" class="validate">
+                <span class="output"></span>
+            </li>
+            <li class="input-field email">
+                <label for="mail">E-mail corporativo*</label>
+                <input id="mail" name="email" type="email" class="validate">
+                <span class="output"></span>
+            </li>
+            <li class="input-field empresa">
+                <label for="empresa">Empresa*</label>
+                <input id="empresa" name="empresa" type="text" class="validate">
+                <span class="output"></span>
+            </li>
+            <li class="input-field cargo">
+                <label for="cargo">Cargo*</label>
+                <select name="cargo_auto" id="cargo">
+                    <option value="nulo">Selecione</option>
+                    <option value="Estagiário">Estagiário</option>
+                    <option value="Assistente">Assistente</option>
+                    <option value="Analista">Analista</option>
+                    <option value="Consultor">Consultor</option>
+                    <option value="Coordenador">Coordenador</option>
+                    <option value="Supervisor/Gerente">Supervisor/Gerente</option>
+                    <option value="Diretor">Diretor</option>
+                    <option value="CEO/Presidente/Sócio">CEO/Presidente/Sócio</option>
+                    <option value="Outro">Outro</option>
+                </select>
+                <span class="output"></span>
+            </li>
+            <li class="input-field departamento">
+                <label for="dept">Departamento*</label>
+                <input id="dept" name="departamento" type="text" class="validate">
+                <span class="output"></span>
+            </li>
+        </ul>
+
+        <div class="clearfix"></div>
+
+        <div class="control-steps">
+            <span class="active"></span>
+            <span></span>
+        </div> <!-- control steps -->
+
+        <button id="go-to-step-02">Quero agendar</button>
+
+    </div> <!-- step 01 -->
+
+    <div class="step step-02">
+
+        <ul>
+            <li class="input-field concessionarias">
+                <label for="concessionarias">Quantas concessionárias há no grupo em que você trabalha?*</label>
+                <input id="concessionarias" name="numero_lojas__c" type="number" class="validate">
+                <span class="output"></span>
+            </li>
+
+            <li class="input-field conteudo">
+                <div class="checkbox">
+                    <input type="checkbox" name="aceito_receber_conteudos_exclusivos_da_unico_" id="receber-conteudo">
+                    <label for="receber-conteudo">Aceito receber conteúdos exclusivos da unico.</label>
+                </div>
+            </li>
+
+            <li class="input-field conteudo-whats">
+                <div class="checkbox">
+                    <input type="checkbox" name="aceito_receber_comunicados_por_whatsapp" id="receber-whats">
+                    <label for="receber-whats">Autorizo o contato por WhatsApp.<br>Usaremos seu número apenas para contato direto.<br>Não enviaremos spam.</label>
+                </div>
+            </li>
+
+        </ul>
+
+        <div class="clearfix"></div>
+
+        <div class="control-steps">
+
+            <span></span>
+            <span class="active"></span>
+
+        </div> <!-- control steps -->
+
+        <button id="send-step-final" type="submit">Quero agendar</button>
+
+    </div> <!-- step 02 -->
+</form>

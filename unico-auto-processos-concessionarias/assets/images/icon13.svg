@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="57" viewBox="0 0 65 57">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_101" data-name="Retângulo 101" width="65" height="57" transform="translate(0 -0.149)" fill="#e42d00" stroke="#e42d00" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_2233" data-name="Grupo 2233" transform="translate(0 0.149)">
+    <g id="Grupo_2230" data-name="Grupo 2230">
+      <g id="Grupo_2229" data-name="Grupo 2229" clip-path="url(#clip-path)">
+        <path id="Caminho_9466" data-name="Caminho 9466" d="M56.319,56.436H-.5V-.5H64.734V48.021h-3V2.5H2.5V53.436H56.319Z" transform="translate(0.383 0.383)" fill="#e42d00"/>
+        <path id="Linha_32" data-name="Linha 32" d="M61,1.5H0v-3H61Z" transform="translate(3 9.851)" fill="#e42d00"/>
+        <path id="Linha_33" data-name="Linha 33" d="M2,1.5H0v-3H2Z" transform="translate(6 5.851)" fill="#e42d00"/>
+        <path id="Linha_34" data-name="Linha 34" d="M3,1.5H0v-3H3Z" transform="translate(11 5.851)" fill="#e42d00"/>
+        <path id="Linha_35" data-name="Linha 35" d="M2,1.5H0v-3H2Z" transform="translate(17 5.851)" fill="#e42d00"/>
+      </g>
+    </g>
+    <path id="Linha_36" data-name="Linha 36" d="M1.5,5h-3V0h3Z" transform="translate(47 34.851)" fill="#e42d00"/>
+    <path id="Linha_37" data-name="Linha 37" d="M1.5,11h-3V0h3Z" transform="translate(21 28.851)" fill="#e42d00"/>
+    <path id="Linha_38" data-name="Linha 38" d="M1.5,7h-3V0h3Z" transform="translate(15 32.851)" fill="#e42d00"/>
+    <path id="Linha_39" data-name="Linha 39" d="M1.5,15h-3V0h3Z" transform="translate(10 24.851)" fill="#e42d00"/>
+    <path id="Linha_40" data-name="Linha 40" d="M1.5,15h-3V0h3Z" transform="translate(41 24.851)" fill="#e42d00"/>
+    <path id="Linha_41" data-name="Linha 41" d="M1.5,11h-3V0h3Z" transform="translate(36 28.851)" fill="#e42d00"/>
+    <g id="Grupo_2232" data-name="Grupo 2232">
+      <g id="Grupo_2231" data-name="Grupo 2231" clip-path="url(#clip-path)">
+        <path id="Elipse_3" data-name="Elipse 3" d="M15.5-1.5A17,17,0,0,1,27.521,27.521,17,17,0,1,1,8.882-.163,16.9,16.9,0,0,1,15.5-1.5Zm0,31a14,14,0,1,0-14-14A14.016,14.016,0,0,0,15.5,29.5Z" transform="translate(26 17.851)" fill="#e42d00"/>
+        <path id="Linha_42" data-name="Linha 42" d="M9.939,12.061l-11-11L1.061-1.061l11,11Z" transform="translate(53 43.851)" fill="#e42d00"/>
+      </g>
+    </g>
+  </g>
+</svg>

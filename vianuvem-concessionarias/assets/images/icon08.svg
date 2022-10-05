@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="70" viewBox="0 0 58 70">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_103" data-name="Retângulo 103" width="58" height="70" transform="translate(-0.447 0)" fill="none" stroke="#5ca2fb" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_2235" data-name="Grupo 2235" transform="translate(0.356)">
+    <g id="Grupo_2234" data-name="Grupo 2234" transform="translate(0.091)" clip-path="url(#clip-path)">
+      <path id="Caminho_9467" data-name="Caminho 9467" d="M6,10.955h7.955V3" transform="translate(3.462 1.773)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Caminho_9468" data-name="Caminho 9468" d="M4,21.682V8.955L11.955,1H53.318V67.818H4V53.5" transform="translate(2.28 0.591)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+      <circle id="Elipse_4" data-name="Elipse 4" cx="12.5" cy="12.5" r="12.5" transform="translate(1.553 26)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Caminho_9469" data-name="Caminho 9469" d="M5,26.364A6.364,6.364,0,0,1,11.364,20" transform="translate(2.871 11.818)" fill="none" stroke="#5ca2fb" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Linha_43" data-name="Linha 43" x2="9.331" y2="9.331" transform="translate(23.994 46.351)" fill="none" stroke="#5ca2fb" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

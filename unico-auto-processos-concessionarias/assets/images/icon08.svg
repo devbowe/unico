@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61" height="64" viewBox="0 0 61 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_96" data-name="Retângulo 96" width="61" height="64" transform="translate(0.045)" fill="none" stroke="#e42d00" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_2216" data-name="Grupo 2216" transform="translate(-0.625 0.333)">
+    <g id="Grupo_2215" data-name="Grupo 2215" transform="translate(0.579 -0.333)" clip-path="url(#clip-path)">
+      <rect id="Retângulo_95" data-name="Retângulo 95" width="32" height="60" rx="2" transform="translate(15.045 2)" fill="none" stroke="#e42d00" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Retângulo_95_-_Contorno" data-name="Retângulo 95 - Contorno" d="M2-1.5H30A3.5,3.5,0,0,1,33.5,2V58A3.5,3.5,0,0,1,30,61.5H2A3.5,3.5,0,0,1-1.5,58V2A3.5,3.5,0,0,1,2-1.5Zm28,60a.5.5,0,0,0,.5-.5V2a.5.5,0,0,0-.5-.5H2a.5.5,0,0,0-.5.5V58a.5.5,0,0,0,.5.5Z" transform="translate(15.045 2)" fill="none" stroke="#e42d00" stroke-width="2"/>
+      <path id="Linha_9" data-name="Linha 9" d="M32,1.5H0v-3H32Z" transform="translate(15.045 54)" fill="none" stroke="#e42d00" stroke-width="2"/>
+      <path id="Linha_10" data-name="Linha 10" d="M32,1.5H0v-3H32Z" transform="translate(15.045 9)" fill="none" stroke="#e42d00" stroke-width="2"/>
+      <path id="Linha_11" data-name="Linha 11" d="M5,1.5H0v-3H5Z" transform="translate(28.045 58)" fill="none" stroke="#e42d00" stroke-width="2"/>
+      <path id="Linha_12" data-name="Linha 12" d="M1.5,11h-3V0h3Z" transform="translate(21.045 37)" fill="none" stroke="#e42d00" stroke-width="2"/>
+      <path id="Linha_13" data-name="Linha 13" d="M1.5,20h-3V0h3Z" transform="translate(27.045 28)" fill="none" stroke="#e42d00" stroke-width="2"/>
+      <path id="Linha_14" data-name="Linha 14" d="M1.5,6h-3V0h3Z" transform="translate(34.045 42)" fill="none" stroke="#e42d00" stroke-width="2"/>
+      <path id="Linha_15" data-name="Linha 15" d="M1.5,14h-3V0h3Z" transform="translate(40.045 34)" fill="none" stroke="#e42d00" stroke-width="2"/>
+      <path id="Linha_16" data-name="Linha 16" d="M1.5,6h-3V0h3Z" transform="translate(53.045 42)" fill="none" stroke="#e42d00" stroke-width="2"/>
+      <path id="Linha_17" data-name="Linha 17" d="M1.5,18h-3V0h3Z" transform="translate(60.045 30)" fill="none" stroke="#e42d00" stroke-width="2"/>
+      <path id="Linha_18" data-name="Linha 18" d="M1.5,6h-3V0h3Z" transform="translate(1.045 42)" fill="none" stroke="#e42d00" stroke-width="2"/>
+      <path id="Linha_19" data-name="Linha 19" d="M1.5,20h-3V0h3Z" transform="translate(8.045 28)" fill="none" stroke="#e42d00" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

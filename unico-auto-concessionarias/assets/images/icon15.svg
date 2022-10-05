@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57" height="64" viewBox="0 0 57 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_107" data-name="Retângulo 107" width="57" height="64" transform="translate(0.022 0)" fill="#d54e2d" stroke="#d54e2d" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_2237" data-name="Grupo 2237" transform="translate(-0.022)">
+    <g id="Grupo_2236" data-name="Grupo 2236" clip-path="url(#clip-path)">
+      <path id="Caminho_9470" data-name="Caminho 9470" d="M6.565-.5a1.5,1.5,0,0,1,1.061.439L21.87,14.183,29.157,6.9a1.5,1.5,0,0,1,2.121,0L51.087,26.7,54.2,23.592a1.5,1.5,0,0,1,2.561,1.061V38.565a1.5,1.5,0,0,1-1.5,1.5H41.348A1.5,1.5,0,0,1,40.287,37.5L43.4,34.391,30.217,21.208,22.93,28.5a1.5,1.5,0,0,1-2.121,0L-.061,7.626a1.5,1.5,0,0,1,0-2.121L5.5-.061A1.5,1.5,0,0,1,6.565-.5Zm15.3,18.3a1.5,1.5,0,0,1-1.061-.439L6.565,3.121,3.121,6.565,21.87,25.313l7.287-7.287a1.5,1.5,0,0,1,2.121,0l15.3,15.3a1.5,1.5,0,0,1,0,2.121l-1.613,1.613h8.792V28.273l-1.613,1.613a1.5,1.5,0,0,1-2.121,0L30.217,10.078,22.93,17.365A1.5,1.5,0,0,1,21.87,17.8Z" transform="translate(0.391 0.391)" fill="#d54e2d"/>
+      <path id="Retângulo_104" data-name="Retângulo 104" d="M0-1.5H12A1.5,1.5,0,0,1,13.5,0V32A1.5,1.5,0,0,1,12,33.5H0A1.5,1.5,0,0,1-1.5,32V0A1.5,1.5,0,0,1,0-1.5Zm10.5,3h-9v29h9Z" transform="translate(6.022 31)" fill="#d54e2d"/>
+      <path id="Retângulo_105" data-name="Retângulo 105" d="M0-1.5H12A1.5,1.5,0,0,1,13.5,0V18A1.5,1.5,0,0,1,12,19.5H0A1.5,1.5,0,0,1-1.5,18V0A1.5,1.5,0,0,1,0-1.5Zm10.5,3h-9v15h9Z" transform="translate(42.022 45)" fill="#d54e2d"/>
+      <path id="Retângulo_106" data-name="Retângulo 106" d="M0-1.5H12A1.5,1.5,0,0,1,13.5,0V25A1.5,1.5,0,0,1,12,26.5H0A1.5,1.5,0,0,1-1.5,25V0A1.5,1.5,0,0,1,0-1.5Zm10.5,3h-9v22h9Z" transform="translate(24.022 38)" fill="#d54e2d"/>
+    </g>
+  </g>
+</svg>

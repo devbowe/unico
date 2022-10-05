@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="65" viewBox="0 0 59 65">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_92" data-name="Retângulo 92" width="59" height="65" transform="translate(0.415 0.333)" fill="none" stroke="#5ca2fb" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_2209" data-name="Grupo 2209" transform="translate(-0.415 -0.333)">
+    <g id="Grupo_2208" data-name="Grupo 2208" clip-path="url(#clip-path)">
+      <path id="Caminho_9429" data-name="Caminho 9429" d="M19.9,20.1a5.915,5.915,0,0,0-1.061-.1,5.837,5.837,0,1,0,5.837,5.837,5.915,5.915,0,0,0-.1-1.061" transform="translate(5.97 9.185)" fill="none" stroke="#5ca2fb" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Caminho_9430" data-name="Caminho 9430" d="M28.889,15.952A14.587,14.587,0,1,0,34.233,21.3" transform="translate(3.215 6.43)" fill="none" stroke="#5ca2fb" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Caminho_9431" data-name="Caminho 9431" d="M37.961,12.378a23.345,23.345,0,1,0,5.357,5.357" transform="translate(0.459 3.674)" fill="none" stroke="#5ca2fb" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Caminho_9432" data-name="Caminho 9432" d="M31.837,37l4.378,10.215H30.378L26,42.837" transform="translate(11.941 16.992)" fill="none" stroke="#5ca2fb" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Caminho_9433" data-name="Caminho 9433" d="M5.378,37,1,47.215H6.837l4.378-4.378" transform="translate(0.459 16.992)" fill="none" stroke="#5ca2fb" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Linha_1" data-name="Linha 1" x1="19" y2="19" transform="translate(24.415 16.333)" fill="none" stroke="#5ca2fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Caminho_9434" data-name="Caminho 9434" d="M37.3,1l1.459,5.837L44.593,8.3l-7.3,7.3H30V8.3Z" transform="translate(13.778 0.459)" fill="none" stroke="#5ca2fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Linha_2" data-name="Linha 2" y1="4" x2="4" transform="translate(52.415 3.333)" fill="none" stroke="#5ca2fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

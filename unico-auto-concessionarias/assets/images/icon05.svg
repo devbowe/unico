@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90.536" height="83.529" viewBox="0 0 90.536 83.529">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_126" data-name="Retângulo 126" width="90.536" height="83.529" fill="#d54e2d"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_2250" data-name="Grupo 2250" transform="translate(0 0)">
+    <g id="Grupo_2249" data-name="Grupo 2249" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Caminho_9502" data-name="Caminho 9502" d="M16.379,60.86a5.678,5.678,0,0,1-5.384-3.884L.291,24.7a5.663,5.663,0,0,1,3.6-7.162L55.888.29a5.67,5.67,0,0,1,7.164,3.6l9.925,29.935-3.586,1.19L59.464,5.078a1.888,1.888,0,0,0-2.388-1.2l-52,17.244a1.887,1.887,0,0,0-1.2,2.388l10.7,32.276a1.891,1.891,0,0,0,2.388,1.2l3.077-1.02,1.188,3.586-3.077,1.02a5.611,5.611,0,0,1-1.778.289" transform="translate(0 0.001)" fill="#d54e2d"/>
+      <rect id="Retângulo_120" data-name="Retângulo 120" width="62.342" height="3.778" transform="translate(3.276 27.7) rotate(-18.362)" fill="#d54e2d"/>
+      <rect id="Retângulo_121" data-name="Retângulo 121" width="62.342" height="3.779" transform="matrix(0.949, -0.315, 0.315, 0.949, 6.248, 36.665)" fill="#d54e2d"/>
+      <path id="Caminho_9503" data-name="Caminho 9503" d="M73.377,65.555H18.592a5.674,5.674,0,0,1-5.667-5.667v-34a5.674,5.674,0,0,1,5.667-5.667H73.377a5.674,5.674,0,0,1,5.667,5.667v34a5.674,5.674,0,0,1-5.667,5.667M18.592,23.994A1.892,1.892,0,0,0,16.7,25.883v34a1.892,1.892,0,0,0,1.889,1.889H73.377a1.892,1.892,0,0,0,1.889-1.889v-34a1.892,1.892,0,0,0-1.889-1.889Z" transform="translate(11.492 17.975)" fill="#d54e2d"/>
+      <rect id="Retângulo_122" data-name="Retângulo 122" width="7.556" height="3.778" transform="translate(33.862 68.416)" fill="#d54e2d"/>
+      <rect id="Retângulo_123" data-name="Retângulo 123" width="7.556" height="3.778" transform="translate(47.086 68.416)" fill="#d54e2d"/>
+      <rect id="Retângulo_124" data-name="Retângulo 124" width="7.556" height="3.778" transform="translate(60.31 68.416)" fill="#d54e2d"/>
+      <rect id="Retângulo_125" data-name="Retângulo 125" width="7.556" height="3.778" transform="translate(73.534 68.416)" fill="#d54e2d"/>
+      <path id="Caminho_9504" data-name="Caminho 9504" d="M44.371,40.329H42.481a7.556,7.556,0,1,1,0-15.113h1.889a7.556,7.556,0,0,1,0,15.113M42.481,28.994a3.778,3.778,0,1,0,0,7.556h1.889a3.778,3.778,0,1,0,0-7.556Z" transform="translate(31.053 22.421)" fill="#d54e2d"/>
+    </g>
+  </g>
+</svg>

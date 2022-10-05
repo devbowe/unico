@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="57" viewBox="0 0 65 57">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_101" data-name="Retângulo 101" width="65" height="57" transform="translate(0 -0.149)" fill="none" stroke="#5ca2fb" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_2233" data-name="Grupo 2233" transform="translate(0 0.149)">
+    <g id="Grupo_2230" data-name="Grupo 2230">
+      <g id="Grupo_2229" data-name="Grupo 2229" clip-path="url(#clip-path)">
+        <path id="Caminho_9466" data-name="Caminho 9466" d="M56.319,54.936H1V1H63.234V48.021" transform="translate(0.383 0.383)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+        <line id="Linha_32" data-name="Linha 32" x2="61" transform="translate(3 9.851)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+        <line id="Linha_33" data-name="Linha 33" x2="2" transform="translate(6 5.851)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+        <line id="Linha_34" data-name="Linha 34" x2="3" transform="translate(11 5.851)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+        <line id="Linha_35" data-name="Linha 35" x2="2" transform="translate(17 5.851)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+    </g>
+    <line id="Linha_36" data-name="Linha 36" y2="5" transform="translate(47 34.851)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Linha_37" data-name="Linha 37" y2="11" transform="translate(21 28.851)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Linha_38" data-name="Linha 38" y2="7" transform="translate(15 32.851)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Linha_39" data-name="Linha 39" y2="15" transform="translate(10 24.851)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Linha_40" data-name="Linha 40" y2="15" transform="translate(41 24.851)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Linha_41" data-name="Linha 41" y2="11" transform="translate(36 28.851)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+    <g id="Grupo_2232" data-name="Grupo 2232">
+      <g id="Grupo_2231" data-name="Grupo 2231" clip-path="url(#clip-path)">
+        <circle id="Elipse_3" data-name="Elipse 3" cx="15.5" cy="15.5" r="15.5" transform="translate(26 17.851)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+        <line id="Linha_42" data-name="Linha 42" x2="11" y2="11" transform="translate(53 43.851)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

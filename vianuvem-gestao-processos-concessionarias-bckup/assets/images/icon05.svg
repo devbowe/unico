@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82" height="60" viewBox="0 0 82 60">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_99" data-name="Retângulo 99" width="82" height="60" transform="translate(0.143 0.5)" fill="none" stroke="#5ca2fb" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_2226" data-name="Grupo 2226" transform="translate(-0.143 -0.5)">
+    <g id="Grupo_2225" data-name="Grupo 2225" clip-path="url(#clip-path)">
+      <path id="Caminho_9458" data-name="Caminho 9458" d="M71.286,49H2.714A1.715,1.715,0,0,1,1,47.286V2.714A1.715,1.715,0,0,1,2.714,1H78.143a1.715,1.715,0,0,1,1.714,1.714V43.857" transform="translate(0.714 0.714)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Linha_20" data-name="Linha 20" y1="9" transform="translate(36.143 49.5)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Linha_21" data-name="Linha 21" y2="9" transform="translate(46.143 49.5)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Linha_22" data-name="Linha 22" x2="34" transform="translate(24.143 58.5)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+      <ellipse id="Elipse_2" data-name="Elipse 2" cx="13" cy="12.5" rx="13" ry="12.5" transform="translate(48.143 17.5)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Linha_23" data-name="Linha 23" x2="12" y2="12" transform="translate(68.143 39.5)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Caminho_9459" data-name="Caminho 9459" d="M32.571,12.857V6H24V40.286" transform="translate(17.143 4.286)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Caminho_9460" data-name="Caminho 9460" d="M23.571,36V12H15V36" transform="translate(10.714 8.571)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Caminho_9461" data-name="Caminho 9461" d="M14.571,32.429V17H6V32.429" transform="translate(4.286 12.143)" fill="none" stroke="#5ca2fb" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

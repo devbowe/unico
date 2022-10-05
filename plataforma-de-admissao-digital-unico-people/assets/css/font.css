@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'AtkinsonHyperlegible-Bold', sans-serif;
+  src: url("../fonts/AtkinsonHyperlegible-Bold.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'AtkinsonHyperlegible-BoldItalic', sans-serif;
+  src: url("../fonts/AtkinsonHyperlegible-BoldItalic.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'AtkinsonHyperlegible-Italic', sans-serif;
+  src: url("../fonts/AtkinsonHyperlegible-Italic.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'AtkinsonHyperlegible-Regular', sans-serif;
+  src: url("../fonts/AtkinsonHyperlegible-Regular.ttf") format('truetype');
+}
+h1,
+h2,
+h3,
+h4,
+strong,
+.botaofixo a {
+  font-family: 'AtkinsonHyperlegible-Bold', sans-serif;
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+p,
+span {
+  font-family: 'AtkinsonHyperlegible-Regular', sans-serif;
+  font-style: normal;
+  font-display: swap;
+}

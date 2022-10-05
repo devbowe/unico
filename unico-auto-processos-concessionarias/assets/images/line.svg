@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47" height="13" viewBox="0 0 47 13">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 60 17">
+      <image width="60" height="17" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAARCAYAAACBzs+aAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAT5JREFUeNrsV0tOwzAQnXGdBFh1z4Y1IAQnoJyAnIDPEbgBPUF7AKQAF6DcgBuAELDuhi3KCgnHH8bjUomoCeuYjPTk8ZtxpKfxZwLQW29RGTYFDq8+9jOr89RWsG40kA8J+RlBElI/NxVzfp4wNEjiBvaH1wHMKc4fMEej8XEV/CWn2A+xALHIY96PlOO/J5ZrFUPqwBHmlDsTj7pcpUvWiZ3ic7jmTGFIbFcriGAnbg8u8Bmu63FRJxSKO1qSd3znDgmF24WzVsGbt5VPGEVzYB1M3DaLXy34C/A0sjvKi80bBWvEEcRnW61nOHb7JVg69xShxrKtwvcRCp41Cs7ATWmIp8oIY3yDeaPg95OkTJ09ovs8BtFTfIHLPzut1/MNv+cPqLX0b/Lx4mrv0NPLFb2hLuuh/3P4j/YtwAAyIZfR76+xFgAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <rect id="linha-degrade-azul-vermelho" width="47" height="13" fill="url(#pattern)"/>
+</svg>
